@@ -9,4 +9,4 @@ test_0()
 def test_2(x, y, z):
         print(x, y, z)
 
-test_2(10, 100, 1000)
+test_2(-10, 100, 1000)
