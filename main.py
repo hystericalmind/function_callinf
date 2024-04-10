@@ -4,9 +4,7 @@ def test_0():
     print(b)
     print(a + b)
 
-
 test_0()
-
 
 def test_2(x, y, z):
     print(x, y, z)
